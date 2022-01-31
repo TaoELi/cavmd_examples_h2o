@@ -1,4 +1,4 @@
-# CavMD Files for liquid water
+# CavMD Files for liquid water under VSC
 
 All the necessary input or post-processing files for reproducing the following publication:
 
