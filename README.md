@@ -10,6 +10,8 @@ All the necessary input or post-processing files for reproducing the following p
 
 - Li, T. E., Nitzan, A., Hammes-Schiffer, S., Subotnik, J. E. Quantum Simulations of Vibrational Strong Coupling via Path Integrals. arXiv.
 
+I strongly recommend the readers to try reproducing **water_trpmd/** instead of **water_VUSC/** due to the cleaner file structure and documentation. Note that **water_trpmd/** also contains the classical simulation.
+
 The source code of CavMD and installation tutorials are stored in https://github.com/TaoELi/cavity-md-ipi.
 
 Note that all plotting scripts in the folders above need a wrapper code (**import columnplots as clp**) in https://github.com/TaoELi/columnplots.

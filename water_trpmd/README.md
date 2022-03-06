@@ -2,7 +2,7 @@
 
 The folders here contain all necessary files to generate figures in the following paper:
 
-- Li, T. E., Nitzan, A., Hammes-Schiffer, S., Subotnik, J. E., &  (2022). Quantum Simulations of Vibrational Strong Coupling via Path Integrals. arXiv.
+- Li, T. E., Nitzan, A., Hammes-Schiffer, S., Subotnik, J. E. (2022). Quantum Simulations of Vibrational Strong Coupling via Path Integrals. arXiv.
 
 ## File structure
   - **plotting/** Enter this folder; try *python plot_IR.py* to obtain the IR figure; try *python plot_dielectric.py* to obtain the dielectric constant figure. The raw data for directly plotting the figures are also available in this repo.
