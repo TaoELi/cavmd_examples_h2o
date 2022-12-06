@@ -8,7 +8,7 @@ All the necessary input or post-processing files for reproducing the following p
 
 **water_trpmd/**
 
-- Li, T. E., Nitzan, A., Hammes-Schiffer, S., Subotnik, J. E. Quantum Simulations of Vibrational Strong Coupling via Path Integrals. 	[arXiv:2203.03001, 2022](https://arxiv.org/abs/2203.03001).
+- Li, T. E., Nitzan, A., Hammes-Schiffer, S., Subotnik, J. E. Quantum Simulations of Vibrational Strong Coupling via Path Integrals. [J. Phys. Chem. Lett. 2022, 13 (17), 3890–3895](https://doi.org/10.1021/acs.jpclett.2c00613).
 
 I strongly recommend the readers to try reproducing **water_trpmd/** instead of **water_VUSC/** due to the cleaner file structure and documentation. Note that **water_trpmd/** also contains the classical simulation.
 
